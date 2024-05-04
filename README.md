@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gaaaybe
 - 👀 I’m interested in all things of tecnology in special the web development
-- 🌱 I’m currently learning, HTML, CSS e JS
+- 🌱 I’m currently learning, HTML, CSS and JS
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I hate chocolate cake
 
