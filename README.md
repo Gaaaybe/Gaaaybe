@@ -12,7 +12,6 @@
   <img align="center" alt="Gabe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabe-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Gabe-Express" height="30" width="30" src="https://cdn.discordapp.com/attachments/853143517870030880/1238682289840590899/pngfind.com-pc-master-race-png-1363736.png?ex=66402c47&is=663edac7&hm=0353b3293cdba55790532d6ef72b58ddb7b07199cd387ae594c4f8bc9954cffc&">
 </div>
   
   ##
