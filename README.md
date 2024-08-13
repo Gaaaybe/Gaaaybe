@@ -1,8 +1,11 @@
 ##  Hi, I’m @Gaaaybe
-- 👀 I’m interested in all things of tecnology in special the web development
-- 🌱 I’m currently learning, HTML, CSS and JS
+- 👀 I’m interested in all things of tecnology in special the web development.
+- 🌱 I’m currently learning, Unit, Integration and Acceptance testing, with Jest framework in node JS Applications.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I hate chocolate cake
+  
+[X] HTML, CSS and JS (FrontEnd)
+[X] Node.JS, Express (BackEnd)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaaaybe&layout=compact&theme=radical)](https://github.com/Gaaaybe/github-readme-stats)
 
