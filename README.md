@@ -5,7 +5,8 @@
 - ⚡ Fun fact: I hate chocolate cake
   
 [X] HTML, CSS and JS (FrontEnd). <br>
-[X] Node.JS, Express (BackEnd).
+[X] Node.JS, Express (BackEnd). <br>
+[X] Mongo DB, MySql and PostgreSQL (SGBD)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaaaybe&layout=compact&theme=radical)](https://github.com/Gaaaybe/github-readme-stats)
 
