@@ -3,10 +3,11 @@
 - 🌱 I’m currently learning, Unit, Integration and Acceptance testing, with Jest framework in node JS Applications.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I hate chocolate cake
-  
+  <br><br>
 - HTML, CSS and JS (FrontEnd). <br>
 - Node.JS, Express (BackEnd). <br>
 - Mongo DB, MySql and PostgreSQL (SGBD)
+  <br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaaaybe&layout=compact&theme=radical)](https://github.com/Gaaaybe/github-readme-stats)
 
