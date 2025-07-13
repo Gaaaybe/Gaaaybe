@@ -1,14 +1,13 @@
 ##  Hi, I’m @Gaaaybe
 - 👀 I’m interested in all things of tecnology in special the web development.
-- 🌱 I’m currently learning, Unit, Integration and Acceptance testing, with Jest framework in node JS Applications.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I hate chocolate cake
   <br><br>
-- HTML, CSS and JS (FrontEnd). <br>
-- Node.JS, Express (BackEnd). <br>
-- Mongo DB, MySql and PostgreSQL (SGBD).
+- Node.JS, Express and NestJS (BackEnd). <br>
+- React, Tailwind and TypeScript (FrontEnd). <br>
+- Prisma, Sequelize and PostgreSQL (SGBD).
   <br><br>
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <div style="display: inline_block"><br>
   <img align="center" alt="JS-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
