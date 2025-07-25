@@ -3,6 +3,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I hate chocolate cake
   <br><br>
+  ##
 - Node.JS, Express and NestJS (BackEnd). <br>
 - React, Tailwind and TypeScript (FrontEnd). <br>
 - Prisma, Sequelize and PostgreSQL (SGBD).
